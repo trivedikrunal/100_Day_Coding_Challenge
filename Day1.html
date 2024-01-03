@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <style>
+        #demo{
+            height: 200px;
+            width: 200px;
+            border: 2px solid;
+            
+        }
+
+        button{
+            margin-top: 5px;
+            width: 65px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>EXERCISE 1:-</h1>
+    <h3>Create a square box. Make this 3 buttons, among the 3 buttons, the first button is red, the second button is black and the third button is blue, and you want to change the color of the box when you click on this button.
+    </h3>
+    
+    
+    <div id="demo"> </div>
+    
+    <button onclick="colorRed()">Red</button>
+    <button onclick="colorBlack()">Black</button>
+    <button onclick="colorBlue()">Blue</button>
+
+    <script>
+
+        function colorBlack(){
+             document.getElementById("demo").style.backgroundColor = 'black';
+        }
+
+        function colorRed(){
+             document.getElementById("demo").style.backgroundColor = 'red';
+        }
+
+        function colorBlue(){
+             document.getElementById("demo").style.backgroundColor = 'blue';
+        }
+    </script>
+    
+</body>
+</html>
