@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo1"></p>
+    <p id="demo"></p>
+    <span>Birthdat Date Formet:-</span>
+    <span id="demo21">  </span>
+    <span id="demo22"> </span>
+    <span id="demo23"> </span>
+    <br>
+    Time:-
+    <span id="demo24"> </span>
+    <span id="demo25"> </span>
+    
+    <script>
+        let curruntAge = prompt("Enter Your Age");
+        let d = new Date();
+
+        let birth = d.getFullYear() - curruntAge ;
+
+        let a = new Date();
+        a.setFullYear(birth);
+
+
+        console.log(a);
+
+        document.getElementById("demo1").innerHTML = "Age : " + curruntAge ;
+        document.getElementById("demo").innerHTML =   "Birthdat Date:- " + a.toString().split('GMT')[0];
+
+        
+        document.getElementById("demo21").innerHTML =  a.getDate()  ;
+        document.getElementById("demo22").innerHTML = "/ " + Number(a.getMonth()) + 1  ;
+        document.getElementById("demo23").innerHTML =  "/ " + a.getFullYear()  ;
+
+
+        document.getElementById("demo24").innerHTML = Number(a.getHours())   ;
+        document.getElementById("demo25").innerHTML =  Number(a.getMinutes())   ;
+      
+
+
+    </script>
+</body>
+</html>
