@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td,th{
+            border: 2px solid seagreen;
+        }
+      
+    </style>
+  
+</head>
+<body>
+    <button id="btn1" onclick="showRow()">Create</button>
+    <button id="btn2" style="display: none;" onclick="addRow()">Add Row</button>
+    <table style="display: none; border-collapse: collapse;" id="tb1">
+        <tr >
+            <th>First Nmae</th>
+            <th>Last Name</th>
+            <th>Address</th>
+        </tr>
+    </table>
+  
+    
+
+    <script>
+        function showRow(){
+            document.getElementById("btn2").style.display='inline-block';
+            document.getElementById("tb1").style.display='block';
+            
+        }    
+        function addRow(){
+            let x=document.getElementById("tb1").innerHTML;
+            document.getElementById("tb1").innerHTML =x + ("  <tr><td>Demobhai</td><td>Papabhai</td><td>Demo address</td></tr>");
+        }
+
+    </script>
+</body>
+</html>
