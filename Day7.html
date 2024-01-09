@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo"></p>
+    <p id="demo4"></p>
+    <p id="demo5"></p>
+    <p id="demo6"></p>
+    <button onclick="totleYear()">Year</button>
+    <button onclick="totleMonth()">Month</button>
+    <button onclick="totleDay()">Day</button>
+    <script>
+        let enterDate = prompt("Enter Your Date:",'Example Date Formet : "2004-02-29"');
+        let d = new Date(enterDate);
+        document.getElementById("demo").innerHTML = "Enter Date:" + d;
+
+
+        let currentDate = new Date(); 
+        let countYear = currentDate.getFullYear() - d.getFullYear();
+        let countMonth = currentDate.getMonth() - d.getMonth();
+        let countDay = currentDate.getDay() - d.getDay();
+  
+
+        function totleYear(){
+            document.getElementById("demo4").innerHTML = "Totle Year:" + countYear;
+
+        }
+        function totleMonth(){
+            document.getElementById("demo5").innerHTML = "Totle Month:" + (Number(countMonth) + countYear * 12  );
+
+        }
+        function totleDay(){
+            document.getElementById("demo6").innerHTML = "Totle Day:" + (Number(countDay) + countYear * 365 );
+
+        }
+        
+
+
+    </script>
+</body>
+</html>
