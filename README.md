@@ -6,3 +6,4 @@ Day 5 uplode js exercises 5 Date: 07/01/2024
 Day 6 uplode js exercises 6 Date: 08/01/2024
 Day 7 uplode js exercises 7 Date: 09/01/2024
 Day 8 uplode js exercises 8 Date: 10/01/2024
+Day 9 uplode js exercises 9 Date: 11/01/2024
