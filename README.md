@@ -13,4 +13,6 @@ Day 12 uplode js exercises 12 Date: 14/01/2024
 Day 13 uplode js exercises 13 Date: 15/01/2024
 Day 14 uplode js exercises 14 Date: 16/01/2024
 Day 15 uplode js exercises 15 Date: 17/01/2024
+Day 16 uplode js exercises 16 Date: 18/01/2024
+Day 17 uplode js exercises 17 Date: 19/01/2024
 
