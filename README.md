@@ -16,4 +16,5 @@ Day 15 uplode js exercises 15 Date: 17/01/2024
 Day 16 uplode js exercises 16 Date: 18/01/2024
 Day 17 uplode js exercises 17 Date: 19/01/2024
 Day 18 uplode js exercises 18 Date: 20/01/2024
+Day 19 uplode js exercises 19 Date: 21/01/2024
 
