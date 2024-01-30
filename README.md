@@ -25,4 +25,4 @@ Day 24 uplode js exercises 24 Date: 26/01/2024
 Day 25 uplode js exercises 25 Date: 27/01/2024
 Day 26 uplode js exercises 26 Date: 28/01/2024
 Day 27 uplode js exercises 27 Date: 29/01/2024
-
+Day 28 uplode js exercises 28 Date: 30/01/2024
