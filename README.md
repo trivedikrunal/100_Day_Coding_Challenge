@@ -30,3 +30,4 @@ Day 29 uplode js exercises 29 Date: 31/01/2024
 Day 30 uplode js exercises 30 Date: 01/02/2024
 Day 31 uplode js exercises 31 Date: 02/02/2024
 Day 32 uplode js exercises 32 Date: 03/02/2024
+Day 33 uplode js exercises 33 Date: 04/02/2024
