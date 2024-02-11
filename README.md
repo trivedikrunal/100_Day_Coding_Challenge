@@ -36,3 +36,6 @@ Day 35 uplode js exercises 35 Date: 06/02/2024
 Day 36 uplode js exercises 36 Date: 07/02/2024
 Day 37 uplode js exercises 37 Date: 08/02/2024
 Day 38 uplode js exercises 38 Date: 09/02/2024
+Day 39 uplode js exercises 39 Date: 10/02/2024
+Day 40 uplode js exercises 40 Date: 11/02/2024
+Day 41 uplode js exercises 41 Date: 12/02/2024
