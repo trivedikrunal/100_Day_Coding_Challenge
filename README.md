@@ -39,3 +39,4 @@ Day 38 uplode js exercises 38 Date: 09/02/2024
 Day 39 uplode js exercises 39 Date: 10/02/2024
 Day 40 uplode js exercises 40 Date: 11/02/2024
 Day 41 uplode js exercises 41 Date: 12/02/2024
+Day 42 uplode js exercises 42 Date: 13/02/2024
