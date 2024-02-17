@@ -42,3 +42,5 @@ Day 41 uplode js exercises 41 Date: 12/02/2024
 Day 42 uplode js exercises 42 Date: 13/02/2024
 Day 43 uplode js exercises 43 Date: 14/02/2024
 Day 44 uplode js exercises 44 Date: 15/02/2024
+Day 45 uplode js exercises 45 Date: 16/02/2024
+Day 46 uplode js exercises 46 Date: 17/02/2024
